@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+My name is Rannie :) Nice to meet you!
+I am a graduate student studying Master of Data Science specialized in Computational Linguistics at UBC.
+I love cooking (but still learning) and working out!
+My goal this year is to succeed in the program and be more fit!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love pop and classicals, and I can play violin!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[krieyalam@gmail.com](mailto:email@domain.com)
